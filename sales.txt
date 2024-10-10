@@ -1,0 +1,14 @@
+
+
+Customer Name: Rohan
+Customer Mobile number: 983235452
+Customer Email Id: rohan@gmail.com
+Total Billing Amount: 20500
+Purchasing Time: Thu Oct 10 21:18:48 2024
+
+Customer Name: Aman
+Customer Mobile number: 24356765432
+Customer Email Id: aman1@gmail.com
+Total Billing Amount: 50000
+Purchasing Time: Thu Oct 10 21:20:14 2024
+
